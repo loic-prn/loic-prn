@@ -1,5 +1,5 @@
 # Hi there 👋
-## root@lolopixel: ~ $ whoami
+## ~ $ whoami
 I'm a french student in computer science ! Working on various project, curious to learn, self taught and passionnated. 
 ## ~ $ ls lolo-pixel/langages/
 ### System
