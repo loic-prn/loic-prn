@@ -1,7 +1,7 @@
 # Hi there 👋
 ## root@lolopixel: ~ $ whoami
 I'm a french student in computer science ! Working on various project, curious to learn, self taught and passionnated. 
-## root@lolopixel: ~ $ ls lolo-pixel/langages/
+## ~ $ ls lolo-pixel/langages/
 ### System
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -19,15 +19,23 @@ I'm a french student in computer science ! Working on various project, curious t
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## root@lolopixel: ~ $ neofetch
+## ~ $ neofetch
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## root@lolopixel: ~ $ git status
+## ~ $ git status
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lolo-pixel&count_private=false&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolo-pixel&hide=TeX&layout=compact)
+## ~ $ top
+- Turb-OS *on going*
+- cat-shell *on going*
+- VS mem leak [X]
+- Kali Tea [X]
+## ~ $ cat TODO
+- portfolio
+- personal website
 
 <!--
 **lolo-pixel/lolo-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
