@@ -26,7 +26,7 @@ I'm a french student in computer science ! Working on various project, curious t
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## root@lolopixel: ~ $ git status
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lolo-pixel&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lolo-pixel&count_private=false&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolo-pixel&hide=TeX&layout=compact)
 
 <!--
