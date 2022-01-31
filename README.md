@@ -22,8 +22,8 @@ I'm a french student in computer science ! Working on various project, curious t
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## -> ~ git status
- ![alt text](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
- ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lolo-pixel&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolo-pixel&hide=TeX&layout=compact)
 
 <!--
 **lolo-pixel/lolo-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
