@@ -41,12 +41,11 @@ I'm a french student in computer science ! Working on various project, curious t
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lolo-pixel&count_private=false&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolo-pixel&hide=TeX&layout=compact)
 ## ~ $ top
-- Tree Map *on going*
 - Organ-ized *on going*
 ## ~ $ cat TODO
 - portfolio
-- learn typescript ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-- learn spring ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- learn ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- learn ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 <!--
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
