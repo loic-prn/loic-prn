@@ -38,8 +38,8 @@ I'm a french student in computer science ! Working on various project, curious t
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## ~ $ git status
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lolo-pixel&count_private=false&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolo-pixel&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=loic-prn&count_private=false&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loic-prn&hide=TeX&layout=compact)
 ## ~ $ top
 - Organ-ized *on going*
 ## ~ $ cat TODO
